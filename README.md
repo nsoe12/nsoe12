@@ -1,8 +1,8 @@
 # Hi there 👋
 
-### Hello, I'm **Eunseo Park.** 
-###### 👀 I'm looking for a job at the *front-end*
-###### 👉🏻 Please contact us at *nsoe12@naver.com*
+ Hello, I'm **Eunseo Park.** <br><br>
+ 👀 I'm looking for a job at the *front-end* <br><br>
+ 👉🏻 Please contact us at *nsoe12@naver.com* <br><br><br><br>
 
 ## ✨My Stacks✨
 <div align=center> 
