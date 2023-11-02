@@ -2,7 +2,7 @@
 
  Hello, I'm **Eunseo Park.** <br><br>
  👀 I'm looking for a job at the *front-end* <br><br>
- 👉🏻 Please contact us at *nsoe12@naver.com* <br><br><br><br>
+ 👏 Please contact us at *nsoe12@naver.com* <br><br><br><br>
  
 <h2> ✨My Stacks✨</h2>
 <div align=center> 
