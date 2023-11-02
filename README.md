@@ -24,16 +24,17 @@
   
 </div>
 
-## 🍎 Please check my projects
-#### 🙋‍♀️first!
-##### * monthly-subscription-eCommerce-shopping-mall
-##### * Click👉🏻 [here my PDF](https://github.com/nsoe12/monthly-subscription-eCommerce-shopping-mall/wiki/1.%ED%8C%90%EB%A7%A4%EC%9E%90-%ED%8E%98%EC%9D%B4%EC%A7%80(%EA%B4%80%EB%A6%AC%EC%9E%90)) 🔥monthly-subscription-eCommerce-shopping-mall 
+🍎 Please check my projects<br><br><br>
+ 🙋‍♀️first!<br>
+* monthly-subscription-eCommerce-shopping-mall<br>
+ * Click👉🏻 [here my PDF](https://github.com/nsoe12/monthly-subscription-eCommerce-shopping-mall/wiki/1.%ED%8C%90%EB%A7%A4%EC%9E%90-%ED%8E%98%EC%9D%B4%EC%A7%80(%EA%B4%80%EB%A6%AC%EC%9E%90)) 🔥monthly-subscription-eCommerce-shopping-mall <br>
 
-##### * Click👉🏻 [here Monthly. detail- WIKI](https://github.com/nsoe12/monthly-subscription-eCommerce-shopping-mall.wiki.git)
+* Click👉🏻 [here Monthly. detail- WIKI](https://github.com/nsoe12/monthly-subscription-eCommerce-shopping-mall.wiki.git)<br><br><br>
 
 ___
-#### 🙋‍♀️second!
-##### * Cookpang-Cooking recipe SNS
-##### * [here Cookpang front-end](https://github.com/nsoe12/CookpangSns.wiki.git)
-
-##### * [here Cookpang WIKI](https://github.com/nsoe12/CookpangSns.wiki.git)
+<br><br>
+🙋‍♀️second!<br>
+* Cookpang-Cooking recipe SNS<br>
+* [here Cookpang front-end](https://github.com/nsoe12/CookpangSns.wiki.git)<br>
+<br>
+* [here Cookpang WIKI](https://github.com/nsoe12/CookpangSns.wiki.git) 
