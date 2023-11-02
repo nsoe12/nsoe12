@@ -37,5 +37,5 @@ ___
 🙋‍♀️second! 
 <br><br>
 🔥Cookpang-Cooking recipe SNS
-###### Click👉🏻[here Cookpang front-end](https://github.com/nsoe12/CookpangSns.wiki.git)<br>
+###### Click👉🏻[here Cookpang front-end](https://github.com/nsoe12/CookpangSns/wiki/%F0%9F%94%A5Cookpang-%E2%80%90-cooking-recipe-SNS)<br>
 
