@@ -25,7 +25,7 @@
 </div>
 
 ## 🍎 Please check my projects
-<br><br><br>
+<br>
 
  🙋‍♀️first! 
  <br><br>
